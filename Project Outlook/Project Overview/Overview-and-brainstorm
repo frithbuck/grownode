@@ -1,0 +1,11 @@
+
+# Goals
+##### 1. Inventory system specifically tailored to nurseries and similar models
+	a) Tracks items throughout production process (ideally all the way from seed/propagule to marketable product)
+	b) Efficiently handles large amounts of loss during production
+	c) Easy to input data on new items that have never been handled before
+##### 2. Integrated tagging system, compatibility with tagging systems (easy export of data into multiple formats)
+##### 3. Integrated info sheet/sales sheet/plant sign generation
+##### 4. Compatibility with POS systems (?)
+
+## Desired Features
