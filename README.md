@@ -20,4 +20,5 @@ Guidelines for contributing to the project
 
 ## License
 
-Information about the project's license
+GNU General Public License
+See file "LICENSE"
